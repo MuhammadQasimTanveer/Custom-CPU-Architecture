@@ -1,0 +1,7 @@
+START:
+INP
+STA 008
+ISZ 008
+OUT
+HLT
+NUM: .data 1 0
