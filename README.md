@@ -27,6 +27,6 @@ Each directory represents a progressively more complex task set, from constructi
 
 A step-by-step walkthrough of each task can be found in:
 
-**`Implementation-Notes.pdf`**
+**`Implementation-Notes`**
 
 This guide contains details on how each instruction was implemented and tested, along with key observations and expected behavior.
