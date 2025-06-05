@@ -1,7 +1,0 @@
-START:
-INP      ; Input a value and store it in the accumulator
-STA NUM  ; Store the accumulator value in memory location "NUM"
-NOT NUM  ; use logical shift NOT operator
-OUT      ; Output the result
-HLT      ; Halt execution
-NUM: .data 1 0  ; Memory location labeled "NUM", initialized with 0
